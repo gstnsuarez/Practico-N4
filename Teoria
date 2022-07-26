@@ -4,20 +4,42 @@ Explica los siguientes conceptos con tus propias palabras.
 
 1 - ¿Que es Math?
 
+son metodos incorporados en javascrip de matematica
+
 2 - Explica 5 Metodos Math.
+
+Math.max()
+Math.ceil() 
+Math.floor()
+Math.Sqrt()
+Math.trunc()
+
 
 3 - ¿Que es un String?
 
+Es una secuencia de caracteres 
+
 4 - ¿Que es un booleano?
 
+Es un dato logico devuleve verdadero o falso 
+
 5 - ¿Que es una funcion?
+es un bloque de codigo que realiza alguna operacion
 
 6 - Explica la diferencia entre Undefined y Null
 
+null esta vacio o es nulo, y undefined esta sin definir
+
 7 - ¿Cuales son los operadores de Comparacion?
 
+=, >, <, <=, >=, <>
+
 8 - ¿Cuales son los operadores Logicos?
+$$, AND, ||, OR, !
 
 9 - ¿A que hace referencia la palabra Clave o Key?
+es el identificador elemento de un obejto
 
 10 - ¿Para que sirve el Bucle for..in ?
+
+para recorrer las propiedad de un objeto
